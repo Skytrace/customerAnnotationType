@@ -1,0 +1,9 @@
+target
+reports
+target/
+.project
+.classpath
+.settings
+*.log
+.idea
+customerAnnotationType.iml
