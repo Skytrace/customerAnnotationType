@@ -13,5 +13,8 @@ public class Test {
         main.testAnnotation();
     }
 
-
+    @org.testng.annotations.Test
+    public static void test3() {
+        System.out.println("test");
+    }
 }
