@@ -19,6 +19,6 @@ public class Main {
         System.setProperty("website", "Vk");
         RuntimeInitializer.initFIeld(getClass());
         System.out.println(xpath.getXpath());
+        System.out.println("====> " + System.getProperty("browser"));
     }
-
 }
